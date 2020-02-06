@@ -14,7 +14,8 @@ Code for a TTNMapper node with GPS running on a [TTGO "T-Beam **v10**"](https://
 
 ## Modifications
 
-Hacked a quick & dirty fix for revision v1.0 (v10) boards:
+Hacked a quick & dirty fix for revision v1.0 (v10) boards marked **T22_v1.0, 20190612**
+
 
 * Change TX/RX pins in `gps.h`
 * Add support for the AXP20X power controller
