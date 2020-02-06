@@ -24,12 +24,10 @@ Quick & dirty fix for v1.0 (v10) boards:
 ## Get it running
 
 * Add required libraries
-* Set TTN `NWKSKEY`, `APPKSKEY` and `DEVADDR`
-* Set `GPS_RX` and `GPS_TX`
-* Set gateway GPS coordinates to get the distance displayed on your way
-* Set `TX_INTERVAL`, `HDOP_MAX` and `TX_WAIT_INTERVAL`
+* Set TTN `NWKSKEY`, `APPKSKEY` and `DEVADDR` in `config.h`
+* Set gateway GPS coordinates to get the distance displayed on your way in `gps.h`
 * Change bands if you are not in the EU868 region
-* Print my case: [Thingiverse](https://www.thingiverse.com/thing:4145143)
+* Print my case: Soon
 
 ## TTN
 
@@ -38,6 +36,6 @@ Quick & dirty fix for v1.0 (v10) boards:
 
 ## Images
 
-![Mapper Node #1](ttnmapper_esp32_01.jpg)
+![Mapper Node #1](ttnmapper_t-beam_v10_01.jpg)
 
-![Mapper Node #2](ttnmapper_esp32_02.jpg)
+![Mapper Node #2](ttnmapper_t-beam_v10_02.jpg)
