@@ -6,14 +6,15 @@ Code for a TTNMapper node with GPS running on a [TTGO "T-Beam **v10**"](https://
 
 ## Copyright and sources
 
- * Copyright 2019 sbiermann - https://github.com/sbiermann/Lora-TTNMapper-ESP32
- * Copyright 2019 hottimuc  - https://github.com/hottimuc/Lora-TTNMapper-T-Beam
- * Copyright 2019 DeuxVis   - https://github.com/DeuxVis/Lora-TTNMapper-T-Beam
- * Copyright 2020 noppingen - https://github.com/noppingen/Lora-TTNMapper-T-Beam-v10
+* Copyright sbiermann      - https://github.com/sbiermann/Lora-TTNMapper-ESP32
+* Copyright cyberman54     - https://github.com/cyberman54/ESP32-Paxcounter
+* Copyright Edzelf         - https://github.com/Edzelf/LoRa
+* Copyright DeuxVis        - https://github.com/DeuxVis/Lora-TTNMapper-T-Beam
+* Copyright 2020 noppingen - https://github.com/noppingen/Lora-TTNMapper-T-Beam-v10
 
 ## Modifications
 
-Quick & dirty fix for v1.0 (v10) boards:
+Hacked a quick & dirty fix for revision v1.0 (v10) boards:
 
 * Change TX/RX pins in `gps.h`
 * Add support for the AXP20X power controller
