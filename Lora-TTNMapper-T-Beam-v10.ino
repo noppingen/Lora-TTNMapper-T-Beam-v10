@@ -8,11 +8,11 @@
  * 
  * Node:         TTGO T-Beam "T22_v1.0, 20190612"
  * ---------------------------------------------------------------------------------------------
- * LoRa-Modul:   Reset GPIO 23
- * GPS-Modul:    RX GPIO 34 and TX GPIO 12.
+ * LoRa:         Reset GPIO 23
+ * GPS:          RX GPIO 34 and TX GPIO 12.
  * AXP192:       I2C is at SDA GPIO 21 and SCK GPIO 22
  * Button PWR:   2s: AXP192 on / 6s: AXP192 off (Charging via USB stays active)
- * LED Rot:      GPS fix, also on GPIO37
+ * LED red:      GPS fix, also on GPIO37
 
  * SF-CHANGE       < 2 SEC.
  * INTERVAL-CHANGE = BUTTON PRESS FOR MIN. 2 / MAX 4 SEC.
