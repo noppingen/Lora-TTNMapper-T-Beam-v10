@@ -29,7 +29,7 @@ Hacked a quick & dirty fix for revision v1.0 (v10) boards marked **T22_v1.0, 201
 * Set TTN `NWKSKEY`, `APPKSKEY` and `DEVADDR` in `config.h`
 * Set gateway GPS coordinates to get the distance displayed on your way in `gps.h`
 * Change bands if you are not in the EU868 region
-* Print my case: Soon
+* Print my case: [Thingiverse](https://www.thingiverse.com/thing:4147272)
 
 ## TTN
 
